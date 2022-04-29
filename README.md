@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://airtable-clone.netlify.app/">
+    <a href="https://airbnb-lookalike.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![windbnb](https://user-images.githubusercontent.com/94877748/158280866-3d17907e-0fe1-48c0-a36d-bd2ba1d36f08.png)
 
-- You can find the demo in this [url](https://airtable-clone.netlify.app/)
+- You can find the demo in this [url](https://airbnb-lookalike.netlify.app/)
 
 - I used react for the frontend and for the stays I used [Airtable.com](https://www.airtable.com/) as my database, getting the stays without setting up a server by using Serverless functions
 
